@@ -147,7 +147,9 @@ ol {
     -webkit-transform: rotate(360deg);
   }
 }
-
+.greySpan  {
+  color: #979797;
+}
 /*=== Buttons ===*/
 .site-btn {
   display: inline-block;
