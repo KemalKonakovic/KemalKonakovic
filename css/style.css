@@ -165,6 +165,10 @@ ol {
   z-index: 1;
 }
 
+#text-shadow{
+  text-shadow: 3px 3px #e6e6e6;
+}
+
 .site-btn.btn-fade {
   background-color: #979797;
 }
