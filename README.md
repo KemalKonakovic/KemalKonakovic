@@ -1,2 +1,0 @@
-# KemalKonakovic
-My portfolio website.
